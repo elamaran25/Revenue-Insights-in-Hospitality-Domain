@@ -70,6 +70,7 @@ The Power BI dashboard contains the following visual elements:
    - Refresh the dataset if needed, or connect to an external dataset via SQL/Excel if required.
 4. **Explore the Dashboard**:
    Use the interactive Power BI dashboard to filter and explore revenue insights.
+5. **Metrics File**           : The detailed metrics used in the analysis, along with their formulas, have been provided in a separate file. Make sure to review the metrics.xlsx file for further insights into how each calculation is structured.
 
 ---
 
